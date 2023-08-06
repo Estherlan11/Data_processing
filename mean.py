@@ -1,3 +1,4 @@
+#import the necessary packages
 import os
 import glob
 import arcpy
